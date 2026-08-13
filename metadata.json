@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "An advanced, professional invoice generator for freelancers, agencies, and small businesses with real-time calculations, templates, client management, and PDF/print export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
